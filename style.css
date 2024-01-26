@@ -48,6 +48,10 @@ a {
     text-decoration: none;
 }
 
+a:link {
+    color: #e5e7eb;
+}
+
 a:visited {
     color: #afbbd3;
 }
